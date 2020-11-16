@@ -1,5 +1,13 @@
 h1 {
   size: 50px;
   font-family: Arial;
-  color: red;
+  color: green;
+}
+h2 {
+  size: 30px;
+  font-family: Arial;
+  color: purple;
+}
+body {
+  background: grey;
 }
